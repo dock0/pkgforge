@@ -1,11 +1,10 @@
 dock0/pkgforge
 =======
 
-[![Automated Build](https://img.shields.io/docker/build/dock0/pkgforge.svg)](https://hub.docker.com/r/dock0/pkgforge/)
-[![Build Status](https://img.shields.io/travis/com/dock0/pkgforge.svg)](https://travis-ci.com/dock0/pkgforge)
-[![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dock0/pkgforge/Build)](https://github.com/dock0/pkgforge/actions))
+[![License](https://img.shields.io/github/license/dock0/pkgforge)](https://github.com/dock0/pkgforge/blob/master/LICENSE)
 
-Container for building [amylum](https://github.com/amylum/repo) packages with [pkgforge](https://github.com/akerl/pkgforge)
+Container for building packages with [pkgforge](https://github.com/akerl/pkgforge)
 
 ## License
 
