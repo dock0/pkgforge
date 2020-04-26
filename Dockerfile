@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/dock0/build/build:20200426-a332041
+FROM docker.pkg.github.com/dock0/build/build:20200426-ea8e23e
 MAINTAINER akerl <me@lesaker.org>
 RUN pacman -S --needed --noconfirm ruby
 RUN gem install --no-user-install --no-document pkgforge targit
