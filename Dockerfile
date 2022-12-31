@@ -1,4 +1,4 @@
-FROM ghcr.io/dock0/build:20221231-975f8dc
+FROM ghcr.io/dock0/build:20221231-724a396
 MAINTAINER akerl <me@lesaker.org>
 RUN pacman -S --needed --noconfirm ruby
 RUN gem install --no-user-install --no-document pkgforge targit
